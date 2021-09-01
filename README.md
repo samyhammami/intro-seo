@@ -5,9 +5,9 @@ Thanks to the different tools such as Lighthouse, Google Search Console and Goog
 
 ## FEATURES 
 
-Relevant headings and titles with keywords 👍🏻 
-Use tools mentioned above 👍🏻 
-Use SEO best practices via Tutorials 👍🏻 
+- Relevant headings and titles with keywords 👍🏻 
+- Use tools mentioned above 👍🏻 
+- Use SEO best practices via Tutorials 👍🏻 
 
 
 
